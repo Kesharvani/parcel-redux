@@ -1,0 +1,21 @@
+{
+  "name": "parcel-redux",
+  "version": "1.0.0",
+  "description": "This is redux and pacel app",
+  "source": "public/index.html",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Shubham Kesharvani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
